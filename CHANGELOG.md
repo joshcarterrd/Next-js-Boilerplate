@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/joshcarterrd/Next-js-Boilerplate/compare/v1.0.0...v1.0.1) (2024-03-30)
+
+
+### Bug Fixes
+
+* update sentry ([1b56490](https://github.com/joshcarterrd/Next-js-Boilerplate/commit/1b56490101f6c2640850893af6f8c06368394e2b))
+
 # 1.0.0 (2024-03-30)
 
 
