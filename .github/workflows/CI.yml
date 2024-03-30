@@ -81,7 +81,8 @@ jobs:
       - name: Run E2E tests
         run: npx percy exec -- npm run test:e2e
         env:
-          PERCY_TOKEN: ${{ secrets.PERCY_TOKEN }}
+#          PERCY_TOKEN: ${{ secrets.PERCY_TOKEN }}
+          PERCY_TOKEN: web_76e219db1a5237a7b417fc1e316e83f5780a13655688542fc8504eca39f2ce07
 
       - uses: actions/upload-artifact@v3
         if: always()
